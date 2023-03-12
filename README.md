@@ -7,5 +7,14 @@ CPU changed to TQFP version, FPU removed to make the pcb smaller.
 
 # Work in progress
 
-![image](https://user-images.githubusercontent.com/81614352/218219836-66d5349b-2b2a-4119-ab98-95f073c6d7b4.png)
+![image](https://user-images.githubusercontent.com/81614352/224541039-dd512456-0e68-41b7-bb94-c1bc8a557cf9.png)
+
+
+# Real PCB
+
+![image](https://user-images.githubusercontent.com/81614352/224541071-97e07b29-4300-4a08-ba81-47a74e8a40a7.png)
+
+# Test results
+
+![image](https://user-images.githubusercontent.com/81614352/224541085-f21ab219-3ea0-4f82-9f79-f65024492c85.png)
 
