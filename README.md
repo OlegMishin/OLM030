@@ -10,7 +10,7 @@ Major changes compared to 68030-TK2:
 - IDE connector changed to 44 pin 
 
 
-# Work in progress
+# 3D render
 
 ![image](https://user-images.githubusercontent.com/81614352/224541039-dd512456-0e68-41b7-bb94-c1bc8a557cf9.png)
 
