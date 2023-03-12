@@ -3,7 +3,11 @@ Amiga 500 compact accelerator based on 68030FE33 in TQFP package
 
 Based on the great accelerator from Matthias Heinrichs: 68030-TK2 available at https://gitlab.com/MHeinrichs/68030-tk2
 
-CPU changed to TQFP version, FPU removed to make the pcb smaller.
+Major changes compared to 68030-TK2:
+- CPU changed to TQFP version, FPU removed to make the pcb smaller.
+- Commonized bus drivers to simplify BOM
+- Clock is fixed and defined by oscillator clock (CPU_clock = OSC_clock / 2)
+
 
 # Work in progress
 
