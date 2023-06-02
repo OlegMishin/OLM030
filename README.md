@@ -25,7 +25,4 @@ Major changes compared to 68030-TK2:
 
 After some hours of testing:
 
-![image](https://github.com/OlegMishin/OLM030/assets/81614352/af300bf6-bcb0-4a63-a621-3daef8a1c83a)
-
-
-
+![image](https://github.com/OlegMishin/OLM030/assets/81614352/3286b74d-58db-4611-a2db-d7b12d81b448)
