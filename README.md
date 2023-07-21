@@ -7,7 +7,8 @@ Major changes compared to 68030-TK2:
 - CPU changed to TQFP version, FPU removed to make the pcb smaller.
 - Commonized bus drivers to simplify BOM
 - Clock is fixed and defined by oscillator clock (CPU_clock = OSC_clock / 2)
-- IDE connector changed to 44 pin 
+- IDE connector changed to 44 pin
+- Tested in CDTV(Must have Extended ROM 2.35). Mechanically fits without any adapters.
 
 
 # 3D render
